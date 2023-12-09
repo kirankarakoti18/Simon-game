@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+ }
+ .btn-container{
+     display: flex;
+   justify-content: center;
+ }
+ .btn{
+     height: 150px;
+     width: 150px;
+     border-radius: 28px;
+     border: 8px solid black;
+     margin: 10px;
+ }
+ .pink{
+     background-color:yellow;
+ }
+ .orange{
+     background-color: red;
+ }
+ .blue{
+     background-color: rgb(5, 66, 5);
+ }
+ .sky{
+     background-color:skyblue;
+ }
+ .flash{
+     background-color:black;
+ }
+ .userFlash{
+     background-color: green;
+ }
